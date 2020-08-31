@@ -38,7 +38,7 @@ var l = new Loader();
 l.require(
     [
     "https://polyfill.io/v3/polyfill.min.js?flags=gated&amp;features=es6", 
-    "https://xxxx.cloudfront.net/financeModule/main/main.js"
+    "https://code.jquery.com/jquery-3.5.1.min.js"
     ], 
 function() {
     log('All Scripts Loaded');
